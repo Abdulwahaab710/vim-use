@@ -1,6 +1,6 @@
 # vim-use
 ![vim-use](https://github.com/Abdulwahaab710/vim-use/raw/master/doc/screenshot.png)
-[vim-use](https://github.com/Abdulwahaab710/vim-use) is a vim plug-in which provide syntax highlighting for use
+[vim-use](https://github.com/Abdulwahaab710/vim-use) is a vim plug-in which provide syntax highlighting for [USE](http://useocl.sourceforge.net/w/index.php/Main_Page) UML-based Specification Environment
 ## Installation
 
 ### Install with [Vundle](https://github.com/VundleVim/Vundle.vim)
