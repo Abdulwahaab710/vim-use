@@ -23,7 +23,7 @@ syn match useAttributes "[A-Za-z]\+\(:[A-Z]\)\@="
 syn match useOperator "\.\|->"
 syn keyword usePreCondit if implies
 " syn match useClassName "/\(class \)\@<=[A-Za-z]\+"
-syn match useError "/\(class \)\@<=[a-z]\+"
+syn match useError "\(class \)\@<=[a-z]\+"
 
 let b:current_syntax = "use"
 
